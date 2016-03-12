@@ -34,7 +34,7 @@ Tout candidat qualifié pour participer à la Primaire Ouverte (voir ci-dessous)
 
 ### Février 2016 : Ouverture de la Primaire Ouverte
 
-Toute personne souhaitant participer à la Primaire Ouverte devra s'authentifier au sein de l'Application en renseignant les infomations et en communiquant les documents suivants :
+Toute personne souhaitant participer à la Primaire Ouverte devra s'authentifier au sein de l'Application en renseignant les informations et en communiquant les documents suivants :
 
 - nom, prénom ;
 - code postal ;
@@ -63,7 +63,7 @@ Dans le cas du Plébiscite, il est possible de désigner :
 - soit un citoyen s'étant déjà déclaré candidat ;
 - soit un citoyen ne s'étant pas déclaré candidat, mais en lequel vous avez confiance et que vous jugez potentiellement compétent pour s'impliquer dans la vie politique de notre pays, voire de devenir le/la prochain(e) Président(e) de la République.
 
-Au cours de cette période d'identification, tout candidat potentiel (Canditature Spontanée et Plébiscite) devra, pour etre qualifié et avoir le droit de participer à la Primaire Ouverte, recueillir un minimum de cinq cents (500) soutiens (le "Seuil de Qualification").
+Au cours de cette période d'identification, tout candidat potentiel (Candidature Spontanée et Plébiscite) devra, pour être qualifié et avoir le droit de participer à la Primaire Ouverte, recueillir un minimum de cinq cents (500) soutiens (le "Seuil de Qualification").
 
 Un soutien se matérialise par :
 
@@ -76,7 +76,7 @@ Nous avons décidé de fixer le Seuil de Qualification à cinq cents (500) souti
 - cinq cents (500) est un nombre, a priori, relativement élevé pour limiter les candidatures fantaisistes ou non-engageantes : si un candidat n'arrive pas à fédérer au moins cinq cents (500) personnes, il est possible de douter de sa propension à en rassembler plusieurs millions ;
 - cinq cents (500) est un nombre, a priori, relativement bas pour permettre à tout citoyen suffisamment motivé de pouvoir prétendre à participer à la Primaire Ouverte.
 
-Afin de permettre à tous les candidats potentiels de matérialiser leur candidature à la Primaire Ouverte, il sera mis à leur disposition, au sein de l'Application et/ou du Site Web, un espace personnel dédié dont le contenu respectera un format pré-défini et strictement identique pour tous (la "Présentation"). La Présentation comprendra notamment des liens html dirigeant vers les réseaux sociaux et/ou le site web personnels du candidat, dont le contenu sera à leur charge exclusive et soumis au respect de la Charte (les "Espaces Personnels"). Une Présentation sera également créée pour tous les candidats objet d'un Plébiscite.
+Afin de permettre à tous les candidats potentiels de matérialiser leur candidature à la Primaire Ouverte, il sera mis à leur disposition, au sein de l'Application et/ou du Site Web, un espace personnel dédié dont le contenu respectera un format prédéfini et strictement identique pour tous (la "Présentation"). La Présentation comprendra notamment des liens html dirigeant vers les réseaux sociaux et/ou le site web personnels du candidat, dont le contenu sera à leur charge exclusive et soumis au respect de la Charte (les "Espaces Personnels"). Une Présentation sera également créée pour tous les candidats objet d'un Plébiscite.
 
 Sur le fondement de la Présentation et des Espaces Personnels, les candidats assureront, seuls et par leurs propres moyens, leur campagne tendant à faire connaître leur candidature à la Primaire Ouverte et ce afin d'atteindre le Seuil de Qualification. 
 
@@ -99,7 +99,7 @@ Au-delà des candidats ayant réalisé une Candidature Spontanée et ayant attei
 
 #### Rencontres entre les candidats qualifiés
 
-Nous organiserons des rencontres entre les candidats identifiés et qualifés afin de leur permettre, s'ils le souhaitent, d'exposer et de partager leurs visions, programmes, principales mesures, objectifs, etc. respectifs. 
+Nous organiserons des rencontres entre les candidats identifiés et qualifiés afin de leur permettre, s'ils le souhaitent, d'exposer et de partager leurs visions, programmes, principales mesures, objectifs, etc. respectifs. 
 
 Cette période pourra également favoriser la recherche d'éventuelles synergies entre les candidats à l'effet de constituer ou de compléter des équipes.
 
@@ -109,20 +109,20 @@ Nous organiserons également des tables rondes permettant aux candidats d'échan
 
 #### Ajustement collaboratif des programmes
 
-Le Primaire Ouverte a également pour objectif, au-delà de contribuer à renouveler l'offre politique et d'insuffler un nouvel élan à la démocratie française, de permettre aux citoyens français de se réapproprier notre démocratie et de s'investir (ou ré-investir) dans le débat démocratique. 
+Le Primaire Ouverte a également pour objectif, au-delà de contribuer à renouveler l'offre politique et d'insuffler un nouvel élan à la démocratie française, de permettre aux citoyens français de se réapproprier notre démocratie et de s'investir (ou réinvestir) dans le débat démocratique. 
 
 L'un de nos objectifs est donc de permettre à toute personne de pouvoir s'exprimer et à toutes les idées de pouvoir être exprimées, sous réserve du respect de la Charte et des principes fondamentaux et valeurs présidant notre République. Pour cela, nous entendons permettre à tous les citoyens de s'impliquer tout au long du déroulement de la Primaire Ouverte et proposerons donc des outils issus de l'intelligence collective et favorisant la démocratie participative.
 
-Au cours de cette période, chaque candidat qualifié devra ainsi compléter la Présentation mise en ligne, selon un format pré-défini, comprenant notamment les éléments suivants :
+Au cours de cette période, chaque candidat qualifié devra ainsi compléter la Présentation mise en ligne, selon un format prédéfini, comprenant notamment les éléments suivants :
 
 - sa biographie ;
 - les actes significatifs déjà accomplis par lui ;
 - son programme (notamment sa vision, ses principales mesures...) ;
-- une vidéo dont le format sera précisé ultérieurement.
+- une vidéo dont le format sera précisée ultérieurement.
 
 Il pourra également renvoyer vers du contenu externe.
 
-L'ensemble des ces élements sont soumis au respect de la Charte.
+L'ensemble des ces éléments sont soumis au respect de la Charte.
 
 Dans le cadre de cette période, chaque candidat pourra échanger avec ses soutiens, lesquels pourront participer, commenter et contribuer à la finalisation du programme du candidat concerné, en accord avec ce dernier.
 
@@ -146,7 +146,7 @@ Nous souhaitons donc que l'issue de cette phase de sélection :
 - reflète une diversité de choix, puisque cette primaire est celle de tous les français ; et
 - demeure néanmoins sélective, puisqu'il s'agit d'un processus électif.
 
-Aujourd'hui, toute femme ou tout homme politique souhaitant être élu(e) Président(e) de la République, doit (i) convaincre et unifier sa famille politique derrière sa candidature et (ii) convaincre et rallier des électeurs n'appartenant pas à ladite famille. Dans le cadre de la Primaire Ouverte, il est logique qu'un candidat souhaitant être issu de ladite primaire doive convaicre et rallier le plus grand nombre de citoyens, nonobstant la divergence de leurs idées, opinions ou affinités politiques.
+Aujourd'hui, toute femme ou tout homme politique souhaitant être élu(e) Président(e) de la République, doit (i) convaincre et unifier sa famille politique derrière sa candidature et (ii) convaincre et rallier des électeurs n'appartenant pas à ladite famille. Dans le cadre de la Primaire Ouverte, il est logique qu'un candidat souhaitant être issu de ladite primaire doive convaincre et rallier le plus grand nombre de citoyens, nonobstant la divergence de leurs idées, opinions ou affinités politiques.
 
 Par ailleurs, l'un des objectifs de la Primaire Ouverte est :
 
@@ -161,17 +161,17 @@ La phase de sélection est fondée sur une distribution entièrement aléatoire 
 
 Concrètement :
 
-- les candidats qualifés seront répartis par lots de candidats de manière totalement aléatoire, c'est à dire que chaque lot sera différent s'agissant, à la fois, de :
+- les candidats qualifiés seront répartis par lots de candidats de manière totalement aléatoire, c'est à dire que chaque lot sera différent s'agissant, à la fois, de :
   * la composition même du lot, i.e. l'identité des candidats composant un lot donné ;
   * l'ordre d'apparition des candidats au sein du lot ;
 
-- les lots de candidats seront distribués aléotoirement auprès des participants à la Primaire Ouverte, c'est à dire qu'un participant recevra un ou plusieurs lot(s), automatiquement, et qu'il ne pourra se prononcer que sur les candidats présentés au sein du(des) lot(s) reçu(s).
+- les lots de candidats seront distribués aléatoirement auprès des participants à la Primaire Ouverte, c'est à dire qu'un participant recevra un ou plusieurs lot(s), automatiquement, et qu'il ne pourra se prononcer que sur les candidats présentés au sein du (des) lot(s) reçu(s).
 
-Du point de vue des candidats à la Primaire Ouverte, nous assurrons à chaque candidature d'être soumise à la sélection des participants de la Primaire Ouverte un nombre de fois strictement identique. Du point de vue des participants à la Primaire Ouverte, nous leur proposons de se prononcer sur un ou plusieurs lots de candidats, qui leur sera(ont) adressé(s) de manière totalement aléatoire.
+Du point de vue des candidats à la Primaire Ouverte, nous assurons à chaque candidature d'être soumise à la sélection des participants de la Primaire Ouverte un nombre de fois strictement identique. Du point de vue des participants à la Primaire Ouverte, nous leur proposons de se prononcer sur un ou plusieurs lots de candidats, qui leur sera(ont) adressé(s) de manière totalement aléatoire.
 
 Seuls les candidats ayant recueilli un nombre de votes représentant un seuil minimal seront sélectionnés afin de participer à la Primaire Ouverte. 
 
-Le nombre de citoyens participants à la Primaire Ouverte et le nombre de candidats qualifés étant encore indéterminés à ce jour, les modalités de la distribution aléatoire ainsi que le seuil de sélection seront définitivement fixés et annoncés à l'issue de la période de qualification (voir ci-dessus). 
+Le nombre de citoyens participants à la Primaire Ouverte et le nombre de candidats qualifiés étant encore indéterminés à ce jour, les modalités de la distribution aléatoire ainsi que le seuil de sélection seront définitivement fixés et annoncés à l'issue de la période de qualification (voir ci-dessus). 
 
 Les paramètres que nous avons aujourd'hui définis et qui devront être ajustés sont les suivants :
 
@@ -223,7 +223,7 @@ Nous accompagnerons et assisterons le candidat vainqueur de la Primaire Ouverte 
 - de créer son parti politique (association Loi 1901 et association Loi 1901 de financement) ;
 - d'organiser sa campagne de financement.
 
-Nous précisons qu'en notre qualité d'orgnisateurs de la Primaire Ouverte et des devoirs de neutralité et de réserve y associés, nous ne réaliserons aucune des prestations relatives à la campagne électorale du candidat issu de la Primaire Ouverte. Nous n'interviendrons qu'en qualté de simple relai entre le candidat et les prestataires qu'il désignera afin de nous assurer que l'esprit de la Primaire Ouverte soit respecté jusqu'au bout, et ce dans l'esprit et le sens correspondants à sa finalité initiale.
+Nous précisons qu'en notre qualité d'organisateurs de la Primaire Ouverte et des devoirs de neutralité et de réserve y associés, nous ne réaliserons aucune des prestations relatives à la campagne électorale du candidat issu de la Primaire Ouverte. Nous n'interviendrons qu'en qualité de simple relai entre le candidat et les prestataires qu'il désignera afin de nous assurer que l'esprit de la Primaire Ouverte soit respecté jusqu'au bout, et ce dans l'esprit et le sens correspondants à sa finalité initiale.
 
 
 ### LaPrimaire.org : Pour un vrai choix en 2017 !
